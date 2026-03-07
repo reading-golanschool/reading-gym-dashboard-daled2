@@ -1,0 +1,22 @@
+{
+  "name": "דשבורד מורה - נבחרת הקריאה",
+  "short_name": "דשבורד",
+  "description": "לוח בקרה למורה - נבחרת הקריאה",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#4F46E5",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "dashboard-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "dashboard-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
